@@ -1,0 +1,9 @@
+@article{REPO382,
+    author = "Jiao, Jing and Zhou, Jin and Li, Xiaokang and Xia, Menghua and Huang, Yi and Huang, Lihong and Wang, Na and Zhang, Xiaofan and Zhou, Shichong and Wang, Yuanyuan and others",
+    journal = "Medical Image Analysis",
+    pages = "103202",
+    publisher = "Elsevier",
+    title = "{USFM: A universal ultrasound foundation model generalized to tasks and organs towards label efficient image analysis}",
+    volume = "96",
+    year = "2024"
+}
